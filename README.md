@@ -1,7 +1,7 @@
 angular-foundation-colorpicker
 ==============================
 
-Native AngularJS colorpicker directive for Foundation Zurb
+Native AngularJS color picker directive for Foundation Zurb
 
 <a href="http://web.hostdmk.net/github/colorpicker_foundation/" target="_blank">Demo page (Foundation 5)</a>
 
